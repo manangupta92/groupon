@@ -1,8 +1,17 @@
-## Groupon
+## Groupon Book Library Project
 
+### Overview
+This responsive app will show a simple table of Courses that stores data in a redux store. The user can add/ edit the data.
+The app has two set of mock APIs from which data is being fetched. 
+- Authors API
+- Courses API
+Please read the below details very carefully to initialize the backend mock api along with the UI.
+
+### Getting Started
 1. Run `npm install`
-2. This will also start a json server on port 3001 with mock apis, see tools/ directory.
-3. Go to localhost:3000/ to see UI.
+2. Run `npm start`
+3. This will also start a JSON server on port 3001 with mock apis along with UI on 3000 port.
+4. Go to `http://localhost:3000/` to view UI.
 
 ### Production Dependencies
 
