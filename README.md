@@ -5,7 +5,6 @@ This responsive app will show a simple table of Courses that stores data in a re
 The app has two set of mock APIs from which data is being fetched. 
 - Authors API
 - Courses API
-Please read the below details very carefully to initialize the backend mock api along with the UI.
 
 ### Getting Started
 1. Run `npm install`
